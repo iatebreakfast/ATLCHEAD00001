@@ -5,5 +5,5 @@ As a support technician, I would like detailed information regarding point-of-sa
 
 Desired results:
 A file with the machine serial number is written to a local file.
-BGinfo64 is launched and applies data to the current users desktop.
+BGinfo64 is launched and applies data to the current users desktop wallpaper.
 Start Point-of-sale application.
