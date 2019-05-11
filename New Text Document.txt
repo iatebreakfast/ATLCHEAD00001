@@ -1,1 +1,0 @@
-c:\staging\bginfo\bginfo.exe pos.bgi /silent /nolicprompt /timer:0
